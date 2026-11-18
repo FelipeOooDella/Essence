@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "TCS ESSENCE",
+    "slug": "tcs-essence",
+    "scheme": "tcsessence",
+    "version": "1.0.0",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    }
+  }
+}
